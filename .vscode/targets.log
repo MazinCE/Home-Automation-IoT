@@ -1,0 +1,312 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.82
+# Built for i686-pc-mingw32
+# Copyright (C) 2010  Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Sun Aug 07 19:31:25 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+QTMSBUILD = C:\Users\Mazin\AppData\Local\QtMsBuild
+# default
+.SHELLFLAGS := -c
+# makefile
+MAKEFLAGS = Rrqp
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := c:/Users/Mazin/Documents/PlatformIO/ 
+Projects/Home Automation
+# default
+SHELL := sh.exe
+# environment
+WINDIR = C:\Windows
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVE = C:\Users\Mazin\OneDrive
+# environment
+QSYS_ROOTDIR = C:\intelFPGA\18.1\quartus\sopc_builder\bin
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile
+MAKEFILE_LIST := 
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\Mazin\AppData\Local\Temp
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_CWD = C:\Users\Mazin\AppData\Local\Programs\Microsoft VS Code
+# environment
+PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\platform-tools;C:\Program Files\Git\cmd;C:\Program Files\mingw-w64\bin;C:\iverilog\bin;C:\Users\Mazin\AppData\Local\Programs\Python\Python310;C:\Program Files (x86)\sbt\bin;C:\Users\Mazin\AppData\Local\Microsoft\WindowsApps;C:\Users\Mazin\AppData\Local\Programs\Microsoft VS Code\bin;C:\flutter\bin;C:\Android\platforms;C:\Android\platform-tools;C:\Android\tools;C:\Android\tools\bin;C:\Users\Mazin\AppData\Roaming\npm;C:\intelFPGA\20.1\modelsim_ase\win32aloem;C:\SysGCC\risc-v\bin;C:\Users\Mazin\AppData\Local\Coursier\data\bin
+# environment
+COMMONPROGRAMW6432 = C:\Prog 
+ram Files\Common Files
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132528638775218231
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\Mazin
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SOPC_KIT_NIOS2 = C:\intelFPGA\18.1\nios2eds
+# environment
+NUMBER_OF_PROCESSORS = 2
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+ANDROID_HOME = C:\Android
+# default
+.FEATURES := target-specific order-only second-exp 
+ansion else-if shortest-stem undefine archives
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_3004_YYKZXYUKWOOSKGQU
+# environment
+COMPUTERNAME = DESKTOP-87GB98A
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Mazin
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Mazin\AppData\Roaming\Code\CachedData\da76f93349a72022ca4670c1b84860304616aaa2
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\DESKTOP-87GB98A
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = DESKTOP-87GB98A
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+SBT_HOME = C:\Program Files (x86)\sbt\
+# environment
+JAVA_HOME = C:\Program Files\Java\jdk1.8.0_202
+# default
+MAKE_VERSION := 3.82
+# makefile
+.DEFAULT_GOAL := 
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LOCALAPPDATA = C:\Users\Mazin\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\71ee1854dce5843753d4ad705d599cd5-1.70.0-main-sock
+# environment
+HOMEPATH = \Users\Mazin
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+SYSTEMROOT = C:\Windows
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\Mazin\AppData\Roaming
+# environment
+TEMP = C:\Users\Mazin\AppData\Local\Temp
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# default
+MAKEFILES := 
+# environment
+QUARTUS_ROOTDIR = C:\intelFPGA\18.1\quartus
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 2a07
+# default
+.RECIPEPREFIX := 
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 3004
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-87GB98A
+# variable set hash-table stats:
+# Load=94/1024=9%, Rehash=0, Collisions=11/109=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# \Android\platform-tools;C: could not be stat'd.
+# \Users\Mazin\AppData\Roaming\npm;C: could not be stat'd.
+# \windows\system32\windowspowershell\v1.0\;c: could not be stat'd.
+# \Program Files\Git\cmd;C: could not be stat'd.
+# \Program Files (x86)\Common Files\Oracle\Java\javapath;c: could not be stat'd.
+# \Users\Mazin\AppData\Local\Microsoft\WindowsApps;C: could not be stat'd.
+# . (key c:/Users/Mazin/Documents/PlatformIO/Projects/Home Automation, mtime 1659624616): 10 files, no impossibilities.
+# \windows\system32\openssh\;C: could not be stat'd.
+# \P 
+rogramData\chocolatey\bin;C: could not be stat'd.
+# \Android\platforms;C: could not be stat'd.
+# C: could not be stat'd.
+# \platform-tools;C: could not be stat'd.
+# \Users\Mazin\AppData\Local\Programs\Microsoft VS Code\bin;C: could not be stat'd.
+# \windows;c: could not be stat'd.
+# \Program Files\mingw-w64\bin;C: could not be stat'd.
+# \Android\tools\bin;C: could not be stat'd.
+# \Users\Mazin\AppData\Local\Programs\Python\Python310;C: could not be stat'd.
+# \Program Files (x86)\sbt\bin;C: could not be stat 
+'d.
+# \Program Files\nodejs\;C: could not be stat'd.
+# \SysGCC\risc-v\bin;C: could not be stat'd.
+# \iverilog\bin;C: could not be stat'd.
+# \Users\Mazin\AppData\Local\Coursier\data\bin (key c:/Users/Mazin/AppData/Local/Coursier/data/bin, mtime 1659000066): 13 files, no impossibilities.
+# \flutter\bin;C: could not be stat'd.
+# \intelFPGA\20.1\modelsim_ase\win32aloem;C: could not be stat'd.
+# \windows\system32;c: could not be stat'd.
+# \Android\tools;C: could not be stat'd.
+# \windows\system32\wbem;c: could not be stat'd.
+
+# 23 files, no impossibilities in 27 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=6/1024=1%, Rehash=0, Collisions=0/15=0 
+%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 0 / lookups = 57 / hits = 57
+# # of strcache buffers: 1 (* 8176 B/buffer = 8176 B)
+# strcache used: total = 0 (1015) / max = 0 / min = 8176 / avg = 0
+# strcache free: total = 0 (7161) / max = 0 / min = 8176 / avg = 0
+
+# strcache hash-table stats:
+# Load=53/8192=1%, Rehash=0, Collisions=3/57=5%
+# Finished Make data base on Sun Aug 07 19:31:25 2022
+
+ 
+make.exe: *** No rule to make target `all'.  Stop.
+

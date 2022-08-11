@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "thermosystem": "c",
+        "hardwaremanager.h": "c"
+    }
+}
